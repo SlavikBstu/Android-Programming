@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidGame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_countwins">Wins</string>
+    <string name="action_countloses">Loses</string>
+    <string name="action_countdraws">Draws</string>
+    <string name="action_reset">Reset results</string>
+    <string name="action_choose_color">Choose color</string>
+    <string name="action_on_off_music">On/Off background music</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+</resources>

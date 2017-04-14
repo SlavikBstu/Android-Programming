@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab_06DB</string>
+    <string name="action_addgr">ADD GROUP</string>
+    <string name="action_addst">ADD STUDENT</string>
+    <string name="action_update">UPDATE</string>
+    <string name="action_delete">DELETE</string>
+    <string name="action_select">LIST OF STUDENTS</string>
+    <string name="title_activity_student">StudentActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_group">GroupActivity</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab_89</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_change">Change</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_save">Copy</string>
+    <string name="action_send">Send SMS</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_user_area">UserAreaActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_info_detail">InfoDetailActivity</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="by.belstu.lab_45" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconca"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Фамилия" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Main2Activity"
+            android:label="Имя" >
+        </activity>
+        <activity
+            android:name=".Main3Activity"
+            android:label="Дата" >
+        </activity>
+        <activity
+            android:name=".Main4Activity"
+            android:label="Подтвердите данные" >
+        </activity>
+    </application>
+
+</manifest>
